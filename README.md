@@ -1,6 +1,6 @@
 # Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>, I'm Lautaro! 👨🏽‍🚀
 
-I have 23 years old, a developer from Argentina! I have always been passionate about programming since I was a child. So here I am, enjoying what I like to do. Without further, welcome to my Github.
+I am 23 years old, a developer from Argentina! I have always been passionate about programming since I was a child. So here I am, enjoying what I like to do. Without further, welcome to my Github.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-darretche)
