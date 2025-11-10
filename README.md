@@ -1,11 +1,22 @@
 # Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>, I'm Lautaro! 👨🏽‍🚀
 
-I am 25 years old, a developer from Argentina! I have always been passionate about programming since I was a child. So here I am, enjoying what I like to do. Without further, welcome to my Github.
+I am 26 years old, a developer from Argentina! I have always been passionate about programming since I was a child. So here I am, enjoying what I like to do. Without further, welcome to my Github.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-lautarod.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-darretche)
 
+## 🌐 My activity in GitLab
 
+Even though you can find me here on GitHub, my main activity is on **GitLab**.
+You can follow it using the button below.
+
+<p>
+  <a href="https://dev.fourcapital.com.ar/lautarod" target="_blank">
+    <img src="https://img.shields.io/badge/Visitar%20mi%20GitLab-FF6C37?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Button"/>
+  </a>
+</p>
+
+![image](https://i.ibb.co/8DrW5g6t/activity-gitlab.png)
 
 ## 🛠 Skills
 ![image](https://user-images.githubusercontent.com/95652037/179284079-688c716e-010e-43c1-8cbc-8ac868f070d9.png)
@@ -21,3 +32,4 @@ I am 25 years old, a developer from Argentina! I have always been passionate abo
 
 ##
 Gmail: lautarodarretche@gmail.com 
+Hotmail: lautarodarretche@hotmail.es
