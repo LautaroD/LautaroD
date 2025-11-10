@@ -16,7 +16,7 @@ You can follow it using the button below.
   </a>
 </p>
 
-![image](https://i.ibb.co/8DrW5g6t/activity-gitlab.png)
+[![activity-gitlab](https://i.ibb.co/8DrW5g6t/activity-gitlab.png)](https://dev.fourcapital.com.ar/lautarod)
 
 ## 🛠 Skills
 ![image](https://user-images.githubusercontent.com/95652037/179284079-688c716e-010e-43c1-8cbc-8ac868f070d9.png)
